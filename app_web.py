@@ -35,7 +35,7 @@ skill_map = {
     "Foraging": 121, "Botanizing": 122, "Climbing": 123, "Stone Cutting": 124,
     "Lock Picking": 125, "Stealing": 126, "Traps": 127, "Catapults": 128,
     "Animal Taming": 129, "Animal Husbandry": 130, "Short Bow": 131,
-    "Long Bow": 132, "Medium Bow": 133, "Ship Building": 134, "Cartography": 135,
+    "Long Bow": 132, "Reflex Bow": 133, "Ship Building": 134, "Cartography": 135,
     "Trebuchets": 136, "Restoration": 137
 }
 skill_names = sorted(list(skill_map.keys()))
